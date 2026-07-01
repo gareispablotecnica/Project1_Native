@@ -42,7 +42,7 @@ Proyecto1_Native
 - JSX
 - StyleSheet
 
-## ▶️ Instalación
+## Instalación
 
 1. Clonar el repositorio.
 
