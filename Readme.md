@@ -1,4 +1,4 @@
-# 📱 Proyecto 1 - React Native
+# Proyecto 1 - React Native
 
 Aplicación desarrollada con **React Native** y **Expo** que muestra un catálogo de productos utilizando tarjetas con imágenes, nombre, precio y un botón para agregar al carrito.
 - Curso: 7°3
